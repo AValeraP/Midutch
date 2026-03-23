@@ -1,0 +1,44 @@
+{
+    "infoChannels":{
+    "midu1":{
+        "id":"1",
+        "name": "Miduncy",
+        "category":"Coding Live"
+    },
+    "midu2":{
+        "id":"2",
+        "name": "Miduxocas",
+        "category":"Debugging Sessions"
+    },
+    "midu3":{
+        "id":"3",
+        "name": "Midubai",
+        "category":"Frontend Fun"
+    },
+    "midu4":{
+        "id":"4",
+        "name": "Miduelcapo",
+        "category":"Backend Magic"       
+    },
+    "midu5":{
+        "id":"5",
+        "name": "Miduplay",
+        "category":"JavaScript World"
+    },
+    "midu6":{
+        "id":"6",
+        "name": "MiduVENANT",
+        "category":"Rust Adventures"
+    },
+    "midu7":{
+        "id":"7",
+        "name": "M1dutar",
+        "category":"TypeScript Time"
+    },
+    "midu8":{
+        "id":"8",
+        "name": "Miduuxeneize",
+        "category":"Furvo"
+    }
+    }
+}
