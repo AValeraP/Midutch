@@ -7,6 +7,8 @@
     <div class="bg-stone-950 min-h-screen flex">
     <main>
         <RecommendedChannels></RecommendedChannels>
+        <Video></Video>
+        <LiveChannels></LiveChannels>
     </main>
     </div>
 </template>
